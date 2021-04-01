@@ -52,7 +52,7 @@
     <Reference Include="System.Numerics" />
     <Reference Include="System.Numerics.Vectors" />
     <Reference Include="ElectionGuard">
-      <HintPath>..\..\..\Documents\ElectionGuard\electionguard-cpp\bindings\netstandard\ElectionGuard\ElectionGuard.iOS\bin\Release\ElectionGuard.dll</HintPath>
+      <HintPath>..\..\..\Documents\ElectionGuard\electionguard-cpp\bindings\netstandard\ElectionGuard\ElectionGuard.Android\bin\Release\ElectionGuard.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
